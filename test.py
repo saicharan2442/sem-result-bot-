@@ -85,7 +85,7 @@ def extract_results_from_pdf(pdf_path, htno):
 
 # 🚀 Run the bot
 def main():
-    token = "7886254355:AAGhyMXCoaU61FX95cbWoywl7s8rZTR0GsY"  # Replace with your bot token
+    token = "BOT TOKEN"  # Replace with your bot token
     app = ApplicationBuilder().token(token).build()
 
     app.add_handler(CommandHandler("start", start))
