@@ -6,7 +6,7 @@ A simple Telegram bot that lets students check their **exam results** by choosin
 
 ## 📽️ Demo Video
 
-👉 [Watch Demo Video](#) *(Add your video link here — YouTube/Drive/etc.)*
+👉 ss.mp4 *adden in repo 
 
 ---
 
